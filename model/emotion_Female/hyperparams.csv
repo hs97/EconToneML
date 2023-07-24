@@ -1,0 +1,6 @@
+Iteration Number,Include Gender,Learning Rate,Dataset,Batch Size,Epochs,Two Dimensional,Separate,CNN_gender,Classes,Label
+1,True,1e-05,"['CREMA-D', 'RAVDESS']",16,200,False,False,Female,"['sad', 'angry', 'neutral', 'happy', 'disgust', 'fearful']",emotion
+2,True,1e-05,"['CREMA-D', 'RAVDESS']",16,200,False,False,Female,"['sad', 'angry', 'neutral', 'happy', 'disgust', 'fearful']",emotion
+3,True,1e-05,"['CREMA-D', 'RAVDESS']",16,200,False,False,Female,"['sad', 'angry', 'neutral', 'happy', 'disgust', 'fearful']",emotion
+4,True,1e-05,"['CREMA-D', 'RAVDESS']",16,200,False,False,Female,"['sad', 'angry', 'neutral', 'happy', 'disgust', 'fearful']",emotion
+5,True,1e-05,"['CREMA-D', 'RAVDESS']",16,200,False,False,Female,"['sad', 'angry', 'neutral', 'happy', 'disgust', 'fearful']",emotion
